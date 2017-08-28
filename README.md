@@ -10,4 +10,4 @@ Ouput should be
 a5d4e1g2s3
 
 
-https://travis-ci.org/travis-ci/travis-web.svg?branch=ember-beta-cron
+https://travis-ci.org/travis-ci/travis-web.svg?branch=ce-add-docker-stuff
